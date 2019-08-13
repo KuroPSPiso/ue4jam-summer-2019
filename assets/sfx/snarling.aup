@@ -1,0 +1,108 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="snarling_data" version="1.3.0" audacityversion="2.3.2" sel0="-0.0000000000" sel1="10.5876870748" vpos="0" h="0.0000000000" zoom="201.4668367347" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="YEAR" value="2019"/>
+		<tag name="ALBUM" value="ue4jam-summer-2019"/>
+		<tag name="ARTIST" value="ryan van den bogaard"/>
+		<tag name="GENRE" value="game"/>
+	</tags>
+	<wavetrack name="Snarl5" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="-0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="466917">
+				<waveblock start="0">
+					<simpleblockfile filename="e080851a.au" len="262144" min="-0.734564" max="0.782554" rms="0.036"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08089dd.au" len="204773" min="-0.678117" max="0.77639" rms="0.029727"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Snarl1" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="786752">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c95.au" len="229376" min="-0.267329" max="0.304639" rms="0.030496"/>
+				</waveblock>
+				<waveblock start="229376">
+					<simpleblockfile filename="e08081a9.au" len="262144" min="-0.842705" max="0.719072" rms="0.072705"/>
+				</waveblock>
+				<waveblock start="491520">
+					<simpleblockfile filename="e0808b3f.au" len="149709" min="-0.769046" max="0.794877" rms="0.078001"/>
+				</waveblock>
+				<waveblock start="641229">
+					<simpleblockfile filename="e0808dab.au" len="145523" min="-0.354266" max="0.485555" rms="0.030694"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="17.84018141" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="479963">
+				<waveblock start="0">
+					<silentblockfile len="262144"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808ef3.au" len="217819" min="-0.612305" max="0.33432" rms="0.013885"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="6.819410430839" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Snarl2" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="184320">
+				<waveblock start="0">
+					<simpleblockfile filename="e08080d5.au" len="184320" min="-0.751597" max="0.830947" rms="0.037262"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="TeethClattering" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="284736">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808789.au" len="142368" min="-0.474939" max="0.351429" rms="0.005019"/>
+				</waveblock>
+				<waveblock start="142368">
+					<simpleblockfile filename="e0808d8c.au" len="142368" min="-0.579137" max="0.328631" rms="0.009336"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Snarl3" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="204800">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e89.au" len="152301" min="-0.73603" max="0.789663" rms="0.064511"/>
+				</waveblock>
+				<waveblock start="152301">
+					<simpleblockfile filename="e0808494.au" len="52499" min="-0.258935" max="0.276235" rms="0.028538"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Snarl4" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="7.03541950" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="0"/>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="310262">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808a4e.au" len="155131" min="-0.486171" max="0.523045" rms="0.027445"/>
+				</waveblock>
+				<waveblock start="155131">
+					<simpleblockfile filename="e0808e9c.au" len="155131" min="-0.788007" max="0.743658" rms="0.073616"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
