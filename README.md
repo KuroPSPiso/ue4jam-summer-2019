@@ -13,7 +13,8 @@ Keyboard+Mouse
     Mouse Movement      | Look-dir (player only)
     Tab                 | hold/store controller, to swap player or rc car
     Left mouse button   | Explode
-    alt+f4 /esc         | exit
+    esc                 | exit
+    enter/return        | restart
 
 Controller
 
@@ -23,6 +24,8 @@ Controller
     right-joy           | look-dir
     bottom face button  | hold/store controller, swap actor
     right should button | Explode
+    start               | exit
+    select              | restart
 
 ## SPECIAL CATEGORIES
 
