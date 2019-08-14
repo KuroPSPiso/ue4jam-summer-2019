@@ -6,22 +6,23 @@ ue4jam-summer-2019
 ## What to make
 Remote controlled car that detonates into a herd of zombies outside your small cctv room.
 
-## Controls (TBD)
+## Controls
 Keyboard+Mouse
 
-    WASD		    | Movement
-    Mouse		    | Look-dir
-    Space (player)	| hold/store controller, swap actor
-    esc             | menu/exit
+    WASD		      | Movement (player or rc car)
+    Mouse Movement    | Look-dir (player only)
+    Tab         	  | hold/store controller, to swap player or rc car
+    Left mouse button | Explode
+    alt+f4 /esc       | exit
 
 Controller
 
-    rTrigger 	| gas
-    lTrigger	| reverse/brake
-    action (player) | hold/store controller, swap actor
-    left-joy	| movement (player full, rc remove forwards-reverse)
-    right-joy	| look-dir
-    start       | menu/exit
+    right Trigger      | gas
+    left Trigger       | reverse/brake
+    left-joy	       | movement (player full, rc forwards/reverse)
+    right-joy	       | look-dir
+    bottom face button | hold/store controller, swap actor
+    right should button| Explode
 
 ## SPECIAL CATEGORIES
 
